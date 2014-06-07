@@ -61,7 +61,7 @@
     <color name="background_digits_dialpad">#f2ffffff</color>
 
     <!-- Call button color separated from dialpad_primary_text_color, for better theme support -->
-    <color name="dialpad_call_button_color">#000000</color>
+    <color name="dialpad_call_button_color">#404040</color>
 
     <!-- Background color of action bars.  Ensure this stays in sync with packages/Telephony
          actionbar_background_color. -->
