@@ -116,8 +116,9 @@
     </style>
 
     <style name="DialtactsActionBarSpinner"
-           parent="@*android:style/Widget.Holo.Light.Spinner.DropDown.ActionBar">
-        <item name="android:background">@*android:drawable/spinner_ab_holo_dark</item>
+        parent="@*android:style/Widget.Holo.Light.Spinner.DropDown.ActionBar">
+
+        <item name="android:background">@drawable/spinner_ab_holo_dark</item>
     </style>
 
     <style name="CallDetailActivityTheme1" parent="android:Theme.Holo.Light">
